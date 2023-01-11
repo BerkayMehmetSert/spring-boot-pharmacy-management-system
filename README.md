@@ -11,6 +11,7 @@ This is a simple pharmacy management system.
 ### Prerequisites
 
 * Java 17
+* Kotlin
 * Maven
 * PostgreSQL
 
